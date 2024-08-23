@@ -12,15 +12,14 @@ dependencies:
   provider: ^5.0.0
   http: ^0.13.3
   shared_preferences: ^2.0.6
+  flutter_dotenv: ^5.0.2
+  get_it: ^7.7.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-
 flutter:
- uses-material-design: true
- assets:
-   - assets/images/pcnc.png
-
-
+  uses-material-design: true
+  assets:
+    - assets/images/pcnc.png
