@@ -2,7 +2,12 @@
 
 ### **Style in Every Detail.**
 
+<img width="1254" height="1254" alt="41180978-4615-4304-B621-15FE88F0489B" src="https://github.com/user-attachments/assets/e1e68fe4-dcc7-4426-8972-c9960b33c933" />
+
+---
+
 **NASAQ — نَسَق** is a modern Flutter e-commerce application focused on fashion and accessories, combining a clean mobile shopping experience with a carefully designed user interface.
+
 
 The name **NASAQ (نَسَق)** represents harmony, arrangement, and personal style — the core idea behind the application's visual identity.
 
@@ -223,6 +228,13 @@ NASAQ demonstrates practical experience with:
 * Network communication
 * E-commerce interface design
 * Responsive mobile development
+
+---
+
+## Screenshoots
+
+
+<img width="1536" height="1024" alt="B03B7CF0-B645-4025-AD9E-83C384963251" src="https://github.com/user-attachments/assets/e64219db-a149-4e79-89eb-bde382d9a99f" />
 
 ---
 
